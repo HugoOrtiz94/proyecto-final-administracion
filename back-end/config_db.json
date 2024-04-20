@@ -1,0 +1,18 @@
+{
+  "production": {
+    "username": "root",
+    "password": "googleregoj12",
+    "database": "db-proyecto-naoj",
+    "host": "proyecto-naoj.cuodr7lbk8dj.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "development": {
+    "username": "root",
+    "password": "googleregoj12",
+    "database": "db-proyecto-naoj",
+    "host": "proyecto-naoj.cuodr7lbk8dj.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
